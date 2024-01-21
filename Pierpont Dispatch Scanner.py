@@ -5,7 +5,7 @@ from scanner.full_system_scan import FullSystemScan
 version = "v1.2"
 
 if __name__ == '__main__':
-    # Intro
+    # Header
     print('','*'*60, '\n\n', f'---------- Pierpont Dispatch Email Scanner {version} ----------', '\n\n', '*'*60, '\n\n')
 
     if not isdir('S:/'):
@@ -14,5 +14,6 @@ if __name__ == '__main__':
         main()
         FullSystemScan()
         print('Scan Completed.\n\n')
+
     # Exit Pause
     input('Press Any Key to Exit... ')
