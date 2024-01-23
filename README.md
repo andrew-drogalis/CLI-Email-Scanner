@@ -4,7 +4,7 @@
 ## Table of Contents
 
 * [About the Project](#About-the-Project)
-* [Screentshots](#Screenshots)
+* [Screenshots](#Screenshots)
 * [License](#License)
 
 ## About the Project
